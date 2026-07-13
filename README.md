@@ -25,7 +25,7 @@ My career spans <strong>insurance, aviation, healthcare, government and retail</
 
 ### 📚 Latest Blog Posts
 
-<!--START_SECTION:feed-->
+<!-- feed:START -->
 * [How to Authenticate as Another User in Oracle Apex](https://jonatasgomes.wordpress.com/2025/05/08/how-to-authenticate-as-another-user-in-oracle-apex/)
 * [How to Convert Text into a Zip File and Store It in a Blob Column](https://jonatasgomes.wordpress.com/2024/05/13/how-to-convert-text-into-a-zip-file-and-store-it-in-a-blob-column/)
 * [Quick Way to Set Values in the Apex Session from Javascript](https://jonatasgomes.wordpress.com/2023/09/14/quick-way-to-set-values-in-the-apex-session-from-javascript/)
@@ -36,4 +36,4 @@ My career spans <strong>insurance, aviation, healthcare, government and retail</
 * [Equalize Numbers Algorithm](https://jonatasgomes.wordpress.com/2021/03/29/equalize-numbers-algorithm/)
 * [Reverse Vowels Algorithm](https://jonatasgomes.wordpress.com/2021/03/29/reverse-vowels-algorithm/)
 * [Using DBMS_PROFILER to check PL/SQL performance on Oracle Database](https://jonatasgomes.wordpress.com/2020/06/06/using-dbms_profiler-to-check-pl-sql-performance-on-oracle-database/)
-<!--END_SECTION:feed-->
+<!-- feed:END -->
