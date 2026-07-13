@@ -20,3 +20,4 @@ jobs:
         with:
           feed_list: "https://jonatasgomes.wordpress.com/feed/"
           max_post_count: 10
+          comment_tag_name: "feed"
