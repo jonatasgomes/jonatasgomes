@@ -26,14 +26,14 @@ My career spans <strong>insurance, aviation, healthcare, government and retail</
 ### 📚 Latest Blog Posts
 
 <!-- feed:START -->
-* [How to Authenticate as Another User in Oracle Apex](https://jonatasgomes.wordpress.com/2025/05/08/how-to-authenticate-as-another-user-in-oracle-apex/)
-* [How to Convert Text into a Zip File and Store It in a Blob Column](https://jonatasgomes.wordpress.com/2024/05/13/how-to-convert-text-into-a-zip-file-and-store-it-in-a-blob-column/)
-* [Quick Way to Set Values in the Apex Session from Javascript](https://jonatasgomes.wordpress.com/2023/09/14/quick-way-to-set-values-in-the-apex-session-from-javascript/)
-* [Oracle PL/SQL Function To Get Week Number Within The Month](https://jonatasgomes.wordpress.com/2022/07/08/oracle-pl-sql-function-to-get-week-number-within-the-month/)
-* [Using Oracle DBMS_SQLTUNE](https://jonatasgomes.wordpress.com/2021/11/16/using-oracle-dbms_sqltune/)
-* [Oracle Apex: Two Ways to Export an Application from Itself](https://jonatasgomes.wordpress.com/2021/10/21/oracle-apex-two-ways-to-export-an-application-from-itself/)
-* [Oracle SQL To Get What Sessions Are Using an Object](https://jonatasgomes.wordpress.com/2021/05/19/oracle-sql-to-get-what-sessions-are-using-an-object/)
-* [Equalize Numbers Algorithm](https://jonatasgomes.wordpress.com/2021/03/29/equalize-numbers-algorithm/)
-* [Reverse Vowels Algorithm](https://jonatasgomes.wordpress.com/2021/03/29/reverse-vowels-algorithm/)
-* [Using DBMS_PROFILER to check PL/SQL performance on Oracle Database](https://jonatasgomes.wordpress.com/2020/06/06/using-dbms_profiler-to-check-pl-sql-performance-on-oracle-database/)
+- [How to Authenticate as Another User in Oracle Apex](https://jonatasgomes.wordpress.com/2025/05/08/how-to-authenticate-as-another-user-in-oracle-apex/)
+- [How to Convert Text into a Zip File and Store It in a Blob Column](https://jonatasgomes.wordpress.com/2024/05/13/how-to-convert-text-into-a-zip-file-and-store-it-in-a-blob-column/)
+- [Quick Way to Set Values in the Apex Session from Javascript](https://jonatasgomes.wordpress.com/2023/09/14/quick-way-to-set-values-in-the-apex-session-from-javascript/)
+- [Oracle PL/SQL Function To Get Week Number Within The Month](https://jonatasgomes.wordpress.com/2022/07/08/oracle-pl-sql-function-to-get-week-number-within-the-month/)
+- [Using Oracle DBMS_SQLTUNE](https://jonatasgomes.wordpress.com/2021/11/16/using-oracle-dbms_sqltune/)
+- [Oracle Apex: Two Ways to Export an Application from Itself](https://jonatasgomes.wordpress.com/2021/10/21/oracle-apex-two-ways-to-export-an-application-from-itself/)
+- [Oracle SQL To Get What Sessions Are Using an Object](https://jonatasgomes.wordpress.com/2021/05/19/oracle-sql-to-get-what-sessions-are-using-an-object/)
+- [Equalize Numbers Algorithm](https://jonatasgomes.wordpress.com/2021/03/29/equalize-numbers-algorithm/)
+- [Reverse Vowels Algorithm](https://jonatasgomes.wordpress.com/2021/03/29/reverse-vowels-algorithm/)
+- [Using DBMS_PROFILER to check PL/SQL performance on Oracle Database](https://jonatasgomes.wordpress.com/2020/06/06/using-dbms_profiler-to-check-pl-sql-performance-on-oracle-database/)
 <!-- feed:END -->
